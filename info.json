@@ -4,4 +4,9 @@
    "devices": ["REDMINOTE9PRO8F821C3ADFEBE55C"],
    "expiry": "25-01-2036 12:59 AM"
 },
+   "bewok33": {
+   "password": "$2y$12$/DIh/AQlHirpMrQ2c5nO1O9H7AvoVDiu6DtfzSGQXaMGQ.E307Cqu",
+   "devices": [],
+   "expiry": "31-01-2024 12:59 PM"
+},
 }
