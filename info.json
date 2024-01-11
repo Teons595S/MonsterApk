@@ -1,7 +1,8 @@
 {
-   "fifaldi3": {
-   "password": "$2y$12$EV5VLNQ77fpdWIGRb3T0mO9D.dnt/Q3K3620TZj7bhK/iKlYXAYwC",
+   "baim": {
+   "password": "$2y$12$zqgCjjMXRo6XaKOIhq.TEO1NtHFC2tJ8b6p2zQiNbcUHDTz9REXPC",
    "devices": ["23021RAA2YEE687360F3CA93AD"],
-   "expiry": "04-01-2033 12:00 PM"
+   "expiry": "01-01-2036 12:00 PM"
+},
 },
 }
