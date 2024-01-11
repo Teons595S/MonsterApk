@@ -4,4 +4,9 @@
    "devices": ["REDMINOTE9PRO8F821C3ADFEBE55C"],
    "expiry": "25-01-2036 12:59 AM"
 },
+   "fifaldi3": {
+   "password": "$2y$12$EV5VLNQ77fpdWIGRb3T0mO9D.dnt/Q3K3620TZj7bhK/iKlYXAYwC",
+   "devices": ["23021RAA2YEE687360F3CA93AD"],
+   "expiry": "04-01-2033 12:00 PM"
+},
 }
