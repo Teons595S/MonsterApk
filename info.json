@@ -4,4 +4,9 @@
    "devices": ["REDMINOTE9PRO8F821C3ADFEBE55C"],
    "expiry": "16-01-2037 12:59 AM"
 },
+   "usertes1616": {
+   "password": "$2y$12$e/pgplSSxjajUcFvRgTPkuvh4L0v0NXe.m7Gi7mEPhg3KHN2kbTpu",
+   "devices": ["REDMINOTE9PRO8F821C3ADFEBE55C"],
+   "expiry": "25-01-2036 12:59 AM"
+},
 }
