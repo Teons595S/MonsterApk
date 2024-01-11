@@ -1,7 +1,7 @@
 {
-  "testapp1": {
-   "password": "$2y$12$bXTM8xJOPQB5P0znQ.PlMORCopCanBZlrNRK42JGotP/Enc1MCbaS",
-   "devices": ["REDMINOTE7DFA6D4AA53FFC362"],
-   "expiry": "31-01-2024 12:00 PM"
-  },
+"bebascontoh1": {
+   "password": "$2y$12$x67mDzCZLXBUHNrk9veY/.BByErCE4YrpPILSSPvLcoa09jCp6EFC",
+   "devices": ["REDMINOTE9PRO8F821C3ADFEBE55C"],
+   "expiry": "16-01-2037 12:59 AM"
+},
 }
