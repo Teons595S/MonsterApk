@@ -1,3 +1,7 @@
 {
-   
+   "baim": {
+   "password": "$2y$12$B1FkIneMqa.zoD2POaql7eAa2CiUKZrTeXkkUKIdbdLMmJfjuZOnu",
+   "devices": ["MIA1BCBF145DE385DE1F"],
+   "expiry": "20-01-2030 12:00 PM"
+},
 },
