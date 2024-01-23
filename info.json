@@ -4,4 +4,9 @@
    "devices": ["MIA1BCBF145DE385DE1F"],
    "expiry": "20-01-2030 12:00 PM"
 },
+   "fifaldi3": {
+   "password": "$2y$12$7uQ5ePzP5IkQVLUlP2FWeOeWbDHKvZI/yV8/L3M/7zuhIDmOddwQ.",
+   "devices": ["23021RAA2YEE687360F3CA93AD"],
+   "expiry": "25-03-2024 12:00 PM"
+},
 },
