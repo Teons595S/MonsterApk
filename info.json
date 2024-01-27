@@ -9,4 +9,9 @@
    "devices": ["23021RAA2YEE687360F3CA93AD"],
    "expiry": "25-03-2024 12:00 PM"
 },
+   "yudhi": {
+   "password": "$2y$12$80rieobwcxFKPaiUQvtf1O0CBEGP2xa9kQo.y53lfIjAo7zoTjbfi",
+   "devices": ["SM-G610F33002AA76DE8B327"],
+   "expiry": "28-02-2024 12:00 PM"
+},
 },
