@@ -19,4 +19,9 @@
    "devices": ["RMX20205D813E243477B337"],
    "expiry": "10-02-2024 12:00 PM"
 },
+  "yhudi": {
+   "password": "$2y$12$HRiD0ZsgyoFywi9dih3mgOYpCW/8IqEN3GlgsZsAD0waHGcZ5Nfeq",
+   "devices": ["M2010J19SGE5F7F809309BDEDA"],
+   "expiry": "05-02-2030 12:00 PM"
+}, 
 },
