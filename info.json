@@ -24,4 +24,9 @@
    "devices": ["M2010J19SGE5F7F809309BDEDA"],
    "expiry": "05-02-2030 12:00 PM"
 }, 
+   "yhudhie": {
+   "password": "$2y$12$WY1EdqVw8bTscwilRo5Uy.l3A2JNnToz6y6SgWGy.p54LF.J5Je/S",
+   "devices": ["RMX182165B7894CE9BE758C"],
+   "expiry": "04-02-2030 11:59 PM"
+},
 },
