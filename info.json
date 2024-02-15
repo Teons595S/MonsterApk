@@ -29,4 +29,9 @@
    "devices": ["RMX182165B7894CE9BE758C"],
    "expiry": "04-02-2030 11:59 PM"
 },
+   "topik": {
+   "password": "$2y$12$KR8g9xyk6jNmY.c2czAq5.s5.Ov4tEJOybij2s8PX9LrwEvzvmF7y",
+   "devices": ["M2006C3MGC95DCBBA2308C0EB"],
+   "expiry": "15-02-2025 11:59 PM"
+},
 },
