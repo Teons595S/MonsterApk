@@ -34,4 +34,9 @@
    "devices": ["M2006C3MGC95DCBBA2308C0EB"],
    "expiry": "15-02-2025 11:59 PM"
 },
+   "PAWI": {
+   "password": "$2y$12$5WcClgUUumgTGhaKX.ktIuGiilhe2csXMcDYxOw//1jp5V.rOLrPq",
+   "devices": ["V2027BE7AB607DE8DD6C9"],
+   "expiry": "19-02-2025 11:59 PM"
+},
 },
