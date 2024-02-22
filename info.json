@@ -39,4 +39,9 @@
    "devices": ["V2027BE7AB607DE8DD6C9"],
    "expiry": "19-02-2025 11:59 PM"
 },
+   "fifaldi3": {
+   "password": "$2y$12$UTezcvJDf/mPFc0npp7Nuu2nExnVFMCn4DEoHuKH2jQbPd36zRWVS",
+   "devices": ["23021RAA2Y2ADA39FB1DC8CA92"],
+   "expiry": "05-02-2067 11:59 PM"
+},
 },
