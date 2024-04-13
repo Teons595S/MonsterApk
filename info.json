@@ -4,39 +4,14 @@
    "devices": ["MIA1BCBF145DE385DE1F"],
    "expiry": "20-01-2030 12:00 AM"
 },
-   "fifaldi3": {
-   "password": "$2y$12$K459bMskzHXPW3LJ.s4AA.mDz2ZMKhPPYLC.cVeVfU.2kDEbyK.Jq",
-   "devices": ["23021RAA2Y2ADA39FB1DC8CA92"],
-   "expiry": "10-02-2030 11:59 PM"
-},
    "iyan1": {
    "password": "$2y$12$44jck39QSx7R2caa62tFOepa7wy5NOXllxQ7Op9ReNugjwIQhaW2i",
    "devices": ["RMX20205D813E243477B337"],
    "expiry": "13-05-2024 11:59 PM"
 },
-  "yhudi": {
-   "password": "$2y$12$HRiD0ZsgyoFywi9dih3mgOYpCW/8IqEN3GlgsZsAD0waHGcZ5Nfeq",
-   "devices": ["M2010J19SGE5F7F809309BDEDA"],
-   "expiry": "05-02-2030 12:00 AM"
-}, 
-   "yhudhie": {
-   "password": "$2y$12$WY1EdqVw8bTscwilRo5Uy.l3A2JNnToz6y6SgWGy.p54LF.J5Je/S",
-   "devices": ["RMX182165B7894CE9BE758C"],
-   "expiry": "04-02-2030 11:59 PM"
-},
    "topik": {
    "password": "$2y$12$KR8g9xyk6jNmY.c2czAq5.s5.Ov4tEJOybij2s8PX9LrwEvzvmF7y",
    "devices": ["M2006C3MGC95DCBBA2308C0EB"],
    "expiry": "15-02-2025 11:59 PM"
-},
-   "PAWI": {
-   "password": "$2y$12$5WcClgUUumgTGhaKX.ktIuGiilhe2csXMcDYxOw//1jp5V.rOLrPq",
-   "devices": ["V2027BE7AB607DE8DD6C9"],
-   "expiry": "19-02-2025 11:59 PM"
-},
-   "fifaldi3": {
-   "password": "$2y$12$UTezcvJDf/mPFc0npp7Nuu2nExnVFMCn4DEoHuKH2jQbPd36zRWVS",
-   "devices": ["23021RAA2Y2ADA39FB1DC8CA92"],
-   "expiry": "05-02-2067 11:59 PM"
 },
 },
