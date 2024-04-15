@@ -29,4 +29,9 @@
    "devices": ["INFINIXX682BB61C135F39DE9A08"],
    "expiry": "14-04-2042 12:00 AM"
 },
+   "tamansari2": {
+   "password": "$2y$12$C0ZPTcDjnkpAw0q1YJL3o.B1GZ9YLgbjE.19pgTkyBK4XNckwcs4O",
+   "devices": ["23053RN02ABB3B896BDDC3E55B"],
+   "expiry": "16-04-2039 12:01 AM"
+},
 },
