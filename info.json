@@ -24,4 +24,9 @@
    "devices": ["CPH1819F27801F847ED16AD"],
    "expiry": "15-04-2025 12:00 AM"
 },
+   "tamansari1": {
+   "password": "$2y$12$vM2OoSKmf1lUq9l2W6xC5OPbEEGs3GhlwMwPTmJaBOWTao/nS/QRy",
+   "devices": ["INFINIXX682BB61C135F39DE9A08"],
+   "expiry": "14-04-2042 12:00 AM"
+},
 },
