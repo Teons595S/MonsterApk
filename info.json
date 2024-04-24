@@ -34,4 +34,9 @@
    "devices": ["23053RN02ABB3B896BDDC3E55B"],
    "expiry": "16-04-2039 12:01 AM"
 },
+   "tamansari3": {
+   "password": "$2y$12$Whls44YzX37yBedpQNDsEeHrJwupbIM12bXL/Vq6ccFg9oaByc/fC",
+   "devices": ["REDMINOTE8PRO111012C9E5B0E45B"],
+   "expiry": "24-05-2024 11:59 PM"
+},
 },
