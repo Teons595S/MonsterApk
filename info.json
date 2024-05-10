@@ -14,11 +14,6 @@
    "devices": ["M2006C3MGC95DCBBA2308C0EB"],
    "expiry": "15-02-2025 11:59 PM"
 },
-   "fifaldi3": {
-   "password": "$2y$12$.14BRBtL2utzkW984GKbfeRbI5r29t7PqucvOay9XA15f5oPrY0zu",
-   "devices": ["23021RAA2Y4AF7509EFC1A391F"],
-   "expiry": "14-04-2099 12:00 AM"
-},
    "adang1": {
    "password": "$2y$12$7Qj.OVAiXtZUxrxZw9taaedI1/ocC6nCts6vDdbe.jgVV5LGq1RBa",
    "devices": ["CPH1819F27801F847ED16AD"],
