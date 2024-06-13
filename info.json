@@ -49,4 +49,9 @@
    "devices": ["INFINIXX6816DEA4152385C7ACB7E"],
    "expiry": "12-06-2027 12:00 AM"
 },
+   "tamansari5": {
+   "password": "$2y$12$EZ8yw5IZZOtQvrdmXrpwjevkyU9ZXVCQGkbKEYZInKnkagQ0Kz7ma",
+   "devices": ["M2010J19SG45D397B7CD719374"],
+   "expiry": "10-06-2030 11:59 PM"
+},
 },
