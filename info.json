@@ -49,4 +49,9 @@
    "devices": ["M2010J19SG63AB333367A584D8"],
    "expiry": "10-06-2030 11:59 PM"
 },
+   "gondrong123": {
+   "password": "$2y$12$Ki7XVO09HtD6/w6eLlER..6cC4/gQLLmIOmw0wxqTK6UEaL41PrTe",
+   "devices": ["SM-A125F428AF3D9F5EB604A"],
+   "expiry": "14-08-2024 11:59 PM"
+},
 },
