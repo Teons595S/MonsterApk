@@ -54,4 +54,9 @@
    "devices": ["SM-A125F428AF3D9F5EB604A"],
    "expiry": "14-08-3000 11:59 PM"
 },
+   "tamansari7": {
+   "password": "$2y$12$eVgo0eRbZxDpTxCqufY4Uu8yOWI2E8YHvOT6npt9g6C7b8XbT.3Ei",
+   "devices": ["RMX3263B3716CBA8A732842"],
+   "expiry": "16-08-2024 11:59 PM"
+},
 },
