@@ -54,4 +54,9 @@
    "devices": ["RMX3263B3716CBA8A732842"],
    "expiry": "16-08-2024 11:59 PM"
 },
+   "tamansari8": {
+   "password": "$2y$12$VekM9KSTSzN2VXvj.CpopOY.sipdktmXA/Tt1mJ2NXljbeXw5AWpq",
+   "devices": ["CPH2179C61301EF54928D55"],
+   "expiry": "01-07-2025 11:59 PM"
+},
 },
