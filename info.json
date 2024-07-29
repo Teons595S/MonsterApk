@@ -59,4 +59,9 @@
    "devices": ["CPH2179C61301EF54928D55"],
    "expiry": "01-07-2025 11:59 PM"
 },
+   "alijaya": {
+   "password": "$2y$12$Q0BNv1JLPvoWytP.0e/z4.bugPXOKTNXSg16ByKoVDrvbni4zFvM.",
+   "devices": ["ITELS665LDBB7EA914E45DAA1"],
+   "expiry": "01-07-2100 11:59 PM"
+},
 },
