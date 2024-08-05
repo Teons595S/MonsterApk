@@ -64,4 +64,9 @@
    "devices": ["ITELS665LDBB7EA914E45DAA1"],
    "expiry": "01-07-2100 11:59 PM"
 },
+   "erik": {
+   "password": "$2y$12$WHLqoIsjClXEvby3BOcnTe1OrYxawQk/9018FXFajISCnDq7UFnIu",
+   "devices": ["22071219CG20708598519BB073"],
+   "expiry": "05-09-2024 11:59 PM"
+},
 },
