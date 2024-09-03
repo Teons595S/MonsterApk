@@ -64,4 +64,9 @@
    "devices": ["ITELS665LDBB7EA914E45DAA1"],
    "expiry": "01-07-2100 11:59 PM"
 },
+   "asep": {
+   "password": "$2y$12$WejPbpiDnYrYib8Li9bzhOrOECfi/agvjj5ewEMEmh2I07HcIlwjS",
+   "devices": ["INFINIXX6528B543AEC142C658D61"],
+   "expiry": "03-10-2024 11:59 PM"
+}, 
 },
