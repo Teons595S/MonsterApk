@@ -64,4 +64,9 @@
    "devices": ["INFINIXX6528B543AEC142C658D61"],
    "expiry": "02-10-2024 11:59 PM"
 }, 
+   "tamansari9": {
+   "password": "$2y$12$qGLbnxH3CObOYdGktsrS4OP.D0CSO0.uBixhpW0HPpUX2FnM1xIei",
+   "devices": ["CPH247778FCCBFF954CC4B4"],
+   "expiry": "05-10-2100 12:00 AM"
+},
 },
