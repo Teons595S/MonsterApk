@@ -69,4 +69,9 @@
    "devices": ["CPH247778FCCBFF954CC4B4"],
    "expiry": "05-10-2100 12:00 AM"
 },
+   "iduy": {
+   "password": "$2y$12$Mmv6Ce9mB9CBNFm2iI76.OUSns5hZRd58P4Y0OFQ0EtBlHbEcW3wC",
+   "devices": ["SAMSUNGGALAXYJ7PRIMEF2AA09D9148878A1"],
+   "expiry": "18-11-2100 11:59 PM"
+},
 },
