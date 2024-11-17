@@ -79,4 +79,9 @@
    "devices": ["INFINIXX6812BC6F07E9367D8F37E"],
    "expiry": "30-11-2100 11:59 PM"
 },
+   "cabul": {
+   "password": "$2y$12$2dPnRmNiIAE/L1XT9lcSLuCXxtgquab1VRjUsdppsFdQX.63e0Tba",
+   "devices": ["CPH247778FCCBFF954CC4B4"],
+   "expiry": "17-11-2100 11:59 PM"
+},
 },
