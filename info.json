@@ -39,4 +39,14 @@
    "devices": ["CPH247778FCCBFF954CC4B4"],
    "expiry": "17-11-2100 11:59 PM"
 },
+   "mtsbagus": {
+   "password": "$2y$12$pzGUzRGPU61Au0fLexypCuIYRDvSabVMPWTwhDH3iA6FBf1S/17oO",
+   "devices": ["RMX3263B3716CBA8A732842"],
+   "expiry": "20-11-2100 11:59 PM"
+},
+   "mtsrahmat": {
+   "password": "$2y$12$Lj279aTMBThggGI8MAkAg.y0GaHxe9c7/zoWxf.JGoFwHToPxzvVC",
+   "devices": ["CPH2179C61301EF54928D55"],
+   "expiry": "20-11-2100 11:59 PM"
+},
 },
