@@ -54,4 +54,9 @@
    "devices": ["REDMINOTE8PRO111012C9E5B0E45B","CPH2179C61301EF54928D55"],
    "expiry": "20-11-2100 11:59 PM"
 },
+   "mtsomade": {
+   "password": "$2y$12$RF2Zpu2B2BJfxuc5RTPZSOZawJlYpMf0LL3/SGrWw29HnyxpgQSg.",
+   "devices": ["INFINIXX6816DEA4152385C7ACB7E"],
+   "expiry": "20-11-2100 11:59 PM"
+},
 },
