@@ -4,55 +4,15 @@
    "devices": ["CPH1819F27801F847ED16AD"],
    "expiry": "15-04-2026 12:00 AM"
 },
-   "tamansari1": {
-   "password": "$2y$12$vM2OoSKmf1lUq9l2W6xC5OPbEEGs3GhlwMwPTmJaBOWTao/nS/QRy",
-   "devices": ["INFINIXX682BB61C135F39DE9A08"],
-   "expiry": "14-04-2042 12:00 AM"
-},
-   "tamansari2": {
-   "password": "$2y$12$C0ZPTcDjnkpAw0q1YJL3o.B1GZ9YLgbjE.19pgTkyBK4XNckwcs4O",
-   "devices": ["M2006C3MGC95DCBBA2308C0EB"],
-   "expiry": "16-04-2039 12:01 AM"
-},
-   "tamansari3": {
-   "password": "$2y$12$Whls44YzX37yBedpQNDsEeHrJwupbIM12bXL/Vq6ccFg9oaByc/fC",
-   "devices": ["REDMINOTE8PRO111012C9E5B0E45B"],
-   "expiry": "24-06-5000 11:59 PM"
-},
-   "tamansari4": {
-   "password": "$2y$12$8hVWtG9UCY7pryycjEp31.5XR560SIEIsBy1a91zSCBlZLBVaoGi2",
-   "devices": ["TECNOLH8NB45A6BB5AD7E8623"],
-   "expiry": "01-06-2026 11:59 PM"
-},
    "fifaldi3": {
    "password": "$2y$12$l5CQg2UH41iSdLI16QD2iOdupRZ5jZNUy/Xs1lzmji9obmsXK0Qj6",
    "devices": ["M2010J19SG63AB333367A584D8"],
    "expiry": "01-06-2100 12:01 AM"
 },
-   "tamansari6": {
-   "password": "$2y$12$/OI7q3P5k4uorjE74D2ZbutkZSFScbl1kC1gequKCElVJiFaDz.We",
-   "devices": ["INFINIXX6816DEA4152385C7ACB7E"],
-   "expiry": "12-06-2027 12:00 AM"
-},
-   "tamansari5": {
-   "password": "$2y$12$EZ8yw5IZZOtQvrdmXrpwjevkyU9ZXVCQGkbKEYZInKnkagQ0Kz7ma",
-   "devices": ["M2010J19SG63AB333367A584D8"],
-   "expiry": "10-06-2030 11:59 PM"
-},
    "gondrong123": {
    "password": "$2y$12$Ki7XVO09HtD6/w6eLlER..6cC4/gQLLmIOmw0wxqTK6UEaL41PrTe",
    "devices": ["SM-A125F428AF3D9F5EB604A"],
    "expiry": "14-08-3000 11:59 PM"
-},
-   "tamansari7": {
-   "password": "$2y$12$eVgo0eRbZxDpTxCqufY4Uu8yOWI2E8YHvOT6npt9g6C7b8XbT.3Ei",
-   "devices": ["RMX3263B3716CBA8A732842"],
-   "expiry": "16-08-2025 11:59 PM"
-},
-   "tamansari8": {
-   "password": "$2y$12$VekM9KSTSzN2VXvj.CpopOY.sipdktmXA/Tt1mJ2NXljbeXw5AWpq",
-   "devices": ["CPH2179C61301EF54928D55"],
-   "expiry": "01-07-2025 11:59 PM"
 },
    "alijaya": {
    "password": "$2y$12$Q0BNv1JLPvoWytP.0e/z4.bugPXOKTNXSg16ByKoVDrvbni4zFvM.",
@@ -64,11 +24,6 @@
    "devices": ["INFINIXX6528B543AEC142C658D61"],
    "expiry": "08-12-2024 11:59 PM"
 }, 
-   "tamansari9": {
-   "password": "$2y$12$qGLbnxH3CObOYdGktsrS4OP.D0CSO0.uBixhpW0HPpUX2FnM1xIei",
-   "devices": ["REDMI64ABE747D69D844D8"],
-   "expiry": "05-10-2100 12:00 AM"
-},
    "iduy": {
    "password": "$2y$12$Mmv6Ce9mB9CBNFm2iI76.OUSns5hZRd58P4Y0OFQ0EtBlHbEcW3wC",
    "devices": ["SM-G981B8D204ADDF307E5D9"],
