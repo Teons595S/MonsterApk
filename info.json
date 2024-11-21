@@ -59,4 +59,9 @@
    "devices": ["INFINIXX6816DEA4152385C7ACB7E"],
    "expiry": "20-11-2100 11:59 PM"
 },
+   "mtskamal": {
+   "password": "$2y$12$8xwmIIv6zIk3oqjIx/Z2PujbuYx.4YrXWLAMKhI5kbvSLU1T.TVTa",
+   "devices": ["TECNOLH8NB45A6BB5AD7E8623"],
+   "expiry": "21-11-2100 11:59 PM"
+},
 },
