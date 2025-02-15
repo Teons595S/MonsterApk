@@ -69,4 +69,9 @@
    "devices": ["INFINIXX682BB61C135F39DE9A08"],
    "expiry": "12-12-2100 11:59 PM"
 },
+   "bewok": {
+   "password": "$2y$12$zvCSdWuaaSge9kcK8K4hEuCCoeaD5GSWSu1B8Y.T7PkyPxgwwBMT6",
+   "devices": ["REDMINOTE8664E8711105B0B41"],
+   "expiry": "03-02-2100 12:00 PM"
+},
 },
