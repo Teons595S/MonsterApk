@@ -74,4 +74,9 @@
    "devices": ["REDMINOTE8664E8711105B0B41"],
    "expiry": "03-02-2100 12:00 PM"
 },
+   "encun": {
+   "password": "$2y$12$WSJxYCnJOXEs/8w0gmjDIe/.hO5OPlUll0oNtUn5svN31Njib9jF2",
+   "devices": ["RMX3231C766F4206467C214"],
+   "expiry": "31-03-2025 12:00 PM"
+},
 },
