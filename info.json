@@ -9,11 +9,6 @@
    "devices": ["M2010J19SG63AB333367A584D8"],
    "expiry": "01-06-2100 12:01 AM"
 },
-   "gondrong123": {
-   "password": "$2y$12$Ki7XVO09HtD6/w6eLlER..6cC4/gQLLmIOmw0wxqTK6UEaL41PrTe",
-   "devices": ["SM-A125F428AF3D9F5EB604A"],
-   "expiry": "14-08-3000 11:59 PM"
-},
    "alijaya": {
    "password": "$2y$12$Q0BNv1JLPvoWytP.0e/z4.bugPXOKTNXSg16ByKoVDrvbni4zFvM.",
    "devices": ["ITELS665LDBB7EA914E45DAA1"],
@@ -73,10 +68,5 @@
    "password": "$2y$12$zvCSdWuaaSge9kcK8K4hEuCCoeaD5GSWSu1B8Y.T7PkyPxgwwBMT6",
    "devices": ["23021RAA2Y7CB4CC35017E6552"],
    "expiry": "03-02-2100 12:00 PM"
-},
-   "encun": {
-   "password": "$2y$12$WSJxYCnJOXEs/8w0gmjDIe/.hO5OPlUll0oNtUn5svN31Njib9jF2",
-   "devices": ["RMX3231C766F4206467C214"],
-   "expiry": "31-03-2025 12:00 PM"
 },
 },
