@@ -69,4 +69,9 @@
    "devices": ["23021RAA2Y7CB4CC35017E6552"],
    "expiry": "03-02-2100 12:00 PM"
 },
+   "gondrong123": {
+   "password": "$2y$12$2rxqOvhSwVVhRpP.1h9.LOb6rlUMan5WbpO79Qhy6QLB3yUugGKWq",
+   "devices": ["SM-A125F428AF3D9F5EB604A"],
+   "expiry": "31-12-2100 11:59 PM"
+},
 },
