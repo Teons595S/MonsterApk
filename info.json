@@ -74,4 +74,9 @@
    "devices": ["SM-A125F428AF3D9F5EB604A"],
    "expiry": "31-12-2100 11:59 PM"
 },
+   "mtstopik": {
+   "password": "$2y$12$xyd02Vzy6p822q2AgF4JI.GNQtTRJ3PSeHKSvlFxXyi7Bp4/U/F5K",
+   "devices": ["23053RN02ABB3B896BDDC3E55B"],
+   "expiry": "04-04-2100 11:59 PM"
+},
 },
