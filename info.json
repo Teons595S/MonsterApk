@@ -14,4 +14,9 @@
    "devices": ["SM-A125F428AF3D9F5EB604A"],
    "expiry": "31-12-2100 11:59 PM"
 },
+   "faldi": {
+   "password": "$2y$12$stTW8IMK4IvtzHdHgSX2P.CdDW8bWAgBM/E.1xjxpw6Xb6bVcq6UW",
+   "devices": ["23021RAA2Y378AB3134CA4AEDF"],
+   "expiry": "23-11-2026 12:00 PM"
+},
 },
